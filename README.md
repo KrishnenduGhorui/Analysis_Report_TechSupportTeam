@@ -33,11 +33,7 @@ This project is very important for any support team to make service better to cu
 * Countplot of ticket SLA met and breached in a year 
 * Lineplot with count of ticket SLA met and breached in each month
 
-
- 
- 
-[Currently working to create a dashboard for all visualizatoins created in notebook] 
-
 https://datastudio.google.com/reporting/b6b2f339-dba7-4b3e-b24a-77aa2aea406f
 
+![image](https://user-images.githubusercontent.com/77465776/159096016-bedcd9d4-837e-4082-978f-584e40f76cea.png)
 

@@ -1,4 +1,4 @@
-# Analysis_JiraTicket_TechSupportTeam
+# Analysis_report_TechSupportTeam
 
 Technical support team work on Jira ticket for resolving issue raised by user. This project is about analysis and visualization of insight of jira ticket's various aspects like resolution time, ticket count handled by team and type wise, NPS(Net Promoting Score) score, Count of created and resolved ticket each day and each month wise ,SLA(Service Level Agreement) breached or met etc.
 
@@ -39,4 +39,10 @@ https://datastudio.google.com/reporting/b6b2f339-dba7-4b3e-b24a-77aa2aea406f
 Some plots are shown below - 
 
 ![image](https://user-images.githubusercontent.com/77465776/159096016-bedcd9d4-837e-4082-978f-584e40f76cea.png)
+![image](https://user-images.githubusercontent.com/77465776/159981281-68b6327f-713a-4f21-a0db-15a51cdfb768.png)
+![image](https://user-images.githubusercontent.com/77465776/159981769-2d6e5c69-a4ef-48a4-87ec-66ca5140b5c5.png)
+![image](https://user-images.githubusercontent.com/77465776/159981974-80e9029d-4e3f-4774-b916-f22a2e63733f.png)
+![image](https://user-images.githubusercontent.com/77465776/159982122-98f9e9ec-5358-4cfa-869d-91a7c546b28b.png)
+
+
 

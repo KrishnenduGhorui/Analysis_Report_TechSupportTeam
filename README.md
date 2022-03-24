@@ -1,4 +1,4 @@
-# Analysis_report_TechSupportTeam
+# Analysis & report of Tech Support Team
 
 Technical support team work on Jira ticket for resolving issue raised by user. This project is about analysis and visualization of insight of jira ticket's various aspects like resolution time, ticket count handled by team and type wise, NPS(Net Promoting Score) score, Count of created and resolved ticket each day and each month wise ,SLA(Service Level Agreement) breached or met etc.
 

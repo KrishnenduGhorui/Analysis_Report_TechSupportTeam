@@ -1,10 +1,13 @@
 # Analysis & report of Tech Support Team
 
-Technical support team work on Jira ticket for resolving issue raised by user. This project is about analysis and visualization of insight of jira ticket's various aspects like resolution time, ticket count handled by team and type wise, NPS(Net Promoting Score) score, Count of created and resolved ticket each day and each month wise ,SLA(Service Level Agreement) breached or met etc.
+Technical support team work on Jira ticket for resolving issue raised by user. This project is about **analysis**, making **report/dashboard** and **visualization of insight** of jira ticket's various aspects like resolution time, ticket count handled by team and type wise, NPS(Net Promoting Score) score, Count of created and resolved ticket each day and each month wise ,SLA(Service Level Agreement) breached or met etc.
 
-Data analyzed , visualized by using data science technique and based on that various insight/conclusion retrieved, necessary steps suggested.
+Data analyzed , visualized by using data science technique and based on that various insight/conclusion retrieved, necessary steps suggested. 
 
 This project is very important for any support team to make service better to customer. 
+
+Dashboard/report link - 
+https://datastudio.google.com/reporting/b6b2f339-dba7-4b3e-b24a-77aa2aea406f
 
 
 * Collected data of resolved tickets from atlassian Jira tool’s service desk used for project work.
@@ -32,9 +35,6 @@ This project is very important for any support team to make service better to cu
 * Lineplot of Created and Resolved ticket count in each month 
 * Countplot of ticket SLA met and breached in a year 
 * Lineplot with count of ticket SLA met and breached in each month
-
-
-https://datastudio.google.com/reporting/b6b2f339-dba7-4b3e-b24a-77aa2aea406f
 
 Some plots are shown below - 
 

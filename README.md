@@ -43,7 +43,8 @@ Some plots are shown below -
 ![image](https://user-images.githubusercontent.com/77465776/159981281-68b6327f-713a-4f21-a0db-15a51cdfb768.png)
 ![image](https://user-images.githubusercontent.com/77465776/159981769-2d6e5c69-a4ef-48a4-87ec-66ca5140b5c5.png)
 ![image](https://user-images.githubusercontent.com/77465776/159981974-80e9029d-4e3f-4774-b916-f22a2e63733f.png)
-![image](https://user-images.githubusercontent.com/77465776/159982122-98f9e9ec-5358-4cfa-869d-91a7c546b28b.png)
+![image](https://user-images.githubusercontent.com/77465776/159982122-98f9e9ec-5358-4cfa-869d-91a7c546b28b.png)![image](https://user-images.githubusercontent.com/77465776/176269351-22a4f8b4-5c63-478c-8313-26e3d8000907.png)
+
 
 
 

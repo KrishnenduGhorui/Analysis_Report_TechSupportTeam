@@ -40,7 +40,7 @@ https://app.powerbi.com/groups/me/reports/3cfd0ce3-0749-49c9-9563-98da0c191c05/R
 Some plots are shown below - 
 
 ![image](https://user-images.githubusercontent.com/77465776/159096016-bedcd9d4-837e-4082-978f-584e40f76cea.png)
-![image](https://user-images.githubusercontent.com/77465776/159981281-68b6327f-713a-4f21-a0db-15a51cdfb768.png)
+![image](https://user-images.githubusercontent.com/77465776/176272138-2ec9be38-cd6d-42fc-a218-b95a5315daa4.png)
 ![image](https://user-images.githubusercontent.com/77465776/159981769-2d6e5c69-a4ef-48a4-87ec-66ca5140b5c5.png)
 ![image](https://user-images.githubusercontent.com/77465776/159981974-80e9029d-4e3f-4774-b916-f22a2e63733f.png)
 ![image](https://user-images.githubusercontent.com/77465776/159982122-98f9e9ec-5358-4cfa-869d-91a7c546b28b.png)

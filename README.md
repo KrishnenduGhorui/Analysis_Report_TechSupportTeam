@@ -8,6 +8,7 @@ This project is very important for any support team to make service better to cu
 
 Dashboard/report link - 
 https://datastudio.google.com/reporting/b6b2f339-dba7-4b3e-b24a-77aa2aea406f
+https://app.powerbi.com/groups/me/reports/3cfd0ce3-0749-49c9-9563-98da0c191c05/ReportSection
 
 
 * Collected data of resolved tickets from atlassian Jira tool’s service desk used for project work.
